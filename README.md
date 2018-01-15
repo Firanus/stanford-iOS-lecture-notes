@@ -4,4 +4,4 @@ This repository compiles notes made on the lectures given as a part of the freel
 
 ## Table of Contents
 
-1. [Lecture 1](../Lecture%201/Lecture%201.md)
+1. [Lecture 1](/Lecture%201/Lecture%201.md)

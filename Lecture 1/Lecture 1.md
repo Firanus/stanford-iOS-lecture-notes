@@ -9,4 +9,4 @@ The topics covered by this lecture thereafter are, very briefly:
 
 Mostly, the principles are demonstrated using live code, so they are best reviewed by following along and/or coding the app oneself. See [this release](https://github.com/Firanus/ios-stanford-concentration/releases/tag/1.0) for a copy of the code.
 
-[Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) |  [Next Note](../Lecture%202%3AMVC/Lecture%202.md)
+[Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) |  [Next Note](../Lecture%202/Lecture%202%20-%20MVC.md)

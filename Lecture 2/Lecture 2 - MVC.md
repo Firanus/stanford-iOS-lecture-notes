@@ -21,4 +21,4 @@ Interestingly, apps will often use a combination of MVCs, with each individual o
 
 When one MVC wants to talk to another, it always treat that MVC as one of its Views. It is important to restrict these connections, or debugging apps become impossible.
 
-[Previous Note](../Lecture%201/Lecture%201.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) |  [Next Note](../8%20-%20Properties/8.2%20-%20Property%20Observers.md)
+[Previous Note](../Lecture%201/Lecture%201.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)

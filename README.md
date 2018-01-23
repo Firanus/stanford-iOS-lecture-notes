@@ -16,3 +16,6 @@ This repository compiles notes made on the lectures given as a part of the freel
    2. [Enumerations](/Lecture%203%20-%20The%20Swift%20Programming%20Language/Part%207%20-%20Enumerations.md)
    2. [Optionals](/Lecture%203%20-%20The%20Swift%20Programming%20Language/Part%208%20-%20Optionals.md)
    2. [Data Structures](/Lecture%203%20-%20The%20Swift%20Programming%20Language/Part%209%20-%20Data%20Structures.md)
+4. [Lecture 4: More Swift](/Lecture%204%20-%20More%20Swift/Part%200%20-%20Intro.md)
+   1. [Protocols](/Lecture%204%20-%20More%20Swift/Part%201%20-%20Protocols.md)
+   2. [NSAttributedStrings](/Lecture%204%20-%20More%20Swift/Part%202%20-%20NSAttributedStrings.md)

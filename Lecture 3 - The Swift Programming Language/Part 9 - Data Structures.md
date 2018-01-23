@@ -48,4 +48,4 @@ Protocal are a type which is a declaration of **functionality only**. They have 
 
 We'll take a deeper look at them in Lecture 4.
 
-[Previous Note](../Lecture%203%20-%20The%20Swift%20Programming%20Language/Part%208%20-%20Optionals.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)
+[Previous Note](../Lecture%203%20-%20The%20Swift%20Programming%20Language/Part%208%20-%20Optionals.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) |  [Next Lecture](../Lecture%204%20-%20More%20Swift/Part%200%20-%20Intro.md)

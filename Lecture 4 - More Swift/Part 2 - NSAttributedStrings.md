@@ -20,4 +20,4 @@ NSAttributedStrings are entirely different to strings. They are classes, not str
 
 In addition, NSAttributedStrings were designed to work with NSStrings (Objective C's old string type), and as such have slightly different encoding to Swift strings. This means that you need to be careful of "wacky" Characters when converting from one to t'other.
 
-[Previous Note](../Lecture%204%20-%20More%20Swift/Part%200%20-%20Intro.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)
+[Previous Note](../Lecture%204%20-%20More%20Swift/Part%200%20-%20Intro.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) |  [Next Lecture](../Lecture%205%20-%20Drawing/Part%200%20-%20Intro.md)

@@ -27,3 +27,5 @@ This repository compiles notes made on the lectures given as a part of the freel
    5. [Creating Views](/Lecture%205%20-%20Drawing/Part%205%20-%20Creating%20Views.md)
    6. [Drawing](/Lecture%205%20-%20Drawing/Part%206%20-%20Drawing.md)
    7. [Fonts](/Lecture%205%20-%20Drawing/Part%207%20-%20Fonts.md)
+6. [Lecture 6: Multitouch](/Lecture%206%20-%20Multitouch/Part%200%20-%20Intro.md)
+   1. [Gestures](/Lecture%206%20-%20Multitouch/Part%201%20-%20Gestures.md)

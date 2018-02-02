@@ -25,4 +25,4 @@ let fontToUse = metrics.scaledFont(for: font)
 
 There are also "system fonts". These usually appear on things like buttons. Don't use them on your user content.
 
-[Previous Note](../Lecture%205%20-%20Drawing/Part%206%20-%20Drawing.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)
+[Previous Note](../Lecture%205%20-%20Drawing/Part%206%20-%20Drawing.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Lecture](../Lecture%206%20-%20Multitouch/Part%200%20-%20Intro.md)

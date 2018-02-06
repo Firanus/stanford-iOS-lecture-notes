@@ -1,4 +1,4 @@
-## Lecture 6, Part 1: Gestures
+# Lecture 6, Part 1: Gestures
 
 There are two ways to get touches in iOS:
 1. Get notified of the raw touch events (don't do this one)
@@ -74,4 +74,4 @@ What might a handler look like? For our pan gesture, and many others, it makes s
 
 Note the `@objc` annotation on the method. This is necessary because the gesture action recogniser is built on Objective C. As a result, any method that is the action of a gesture recogniser needs this annotation.
 
-[Previous Note](../Lecture%206%20-%20Multitouch/Part%200%20-%20Intro.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)
+[Previous Note](../Lecture%206%20-%20Multitouch/Part%200%20-%20Intro.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Lecture](../Lecture%207%20-%20Multiple%20MVCs%20Timer%20and%20Animation/Part%200%20-%20Intro.md)

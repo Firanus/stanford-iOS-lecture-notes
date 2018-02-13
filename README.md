@@ -33,3 +33,7 @@ This repository compiles notes made on the lectures given as a part of the freel
    1. [Multiple MVCs](/Lecture%207%20-%20Multiple%20MVCs%20Timer%20and%20Animation/Part%201%20-%20Multiple%20MVCs.md)
    2. [Timer](/Lecture%207%20-%20Multiple%20MVCs%20Timer%20and%20Animation/Part%202%20-%20Timer.md)
    3. [Kinds of Animation](/Lecture%207%20-%20Multiple%20MVCs%20Timer%20and%20Animation/Part%203%20-%20Kinds%20of%20Animation.md)
+8. [Lecture 8: Animation](/Lecture%208%20-%20Animation/Part%200%20-%20Intro.md)
+   1. [UIViewPropertyAnimator](/Lecture%208%20-%20Animation/Part%201%20-%20UIViewPropertyAnimator.md)
+   2. [UIView Transitions](/Lecture%208%20-%20Animation/Part%202%20-%20UIView%20Transitions.md)
+   3. [Dynamic Animations](/Lecture%208%20-%20Animation/Part%203%20-%20Dynamic%20Animations.md)

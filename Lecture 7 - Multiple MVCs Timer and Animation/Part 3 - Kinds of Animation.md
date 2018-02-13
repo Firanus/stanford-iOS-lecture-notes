@@ -9,4 +9,4 @@ There are several kinds of animation:
 * **Sprite Kit** - "2.5D" Animation. Overlapping images moving around on top of one another, e.g. like Mario Bros.
 * **Dynamic Animation** - Physics based animation. This, we actually will cover!
 
-[Previous Note](../Lecture%207%20-%20Multiple%20MVCs%20Timer%20and%20Animation/Part%202%20-%20Timer.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)
+[Previous Note](../Lecture%207%20-%20Multiple%20MVCs%20Timer%20and%20Animation/Part%202%20-%20Timer.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Lecture](../Lecture%208%20-%20Animation/Part%200%20-%20Intro.md)

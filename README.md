@@ -37,3 +37,6 @@ This repository compiles notes made on the lectures given as a part of the freel
    1. [UIViewPropertyAnimator](/Lecture%208%20-%20Animation/Part%201%20-%20UIViewPropertyAnimator.md)
    2. [UIView Transitions](/Lecture%208%20-%20Animation/Part%202%20-%20UIView%20Transitions.md)
    3. [Dynamic Animations](/Lecture%208%20-%20Animation/Part%203%20-%20Dynamic%20Animations.md)
+9. [Lecture 9: View Controller Lifecycle and Scroll Views](/Lecture%209%20-%20View%20Controller%20Lifecycle%20and%20Scroll%20Views/Part%200%20-%20Intro.md)
+   1. [View Controller Lifecycle](/Lecture%209%20-%20View%20Controller%20Lifecycle%20and%20Scroll%20Views/Part%201%20-%20View%20Controller%20Lifecycle.md)
+   2. [UIScrollView](/Lecture%209%20-%20View%20Controller%20Lifecycle%20and%20Scroll%20Views/Part%202%20-%20UIScrollView.md) 

@@ -64,4 +64,4 @@ In addition to dynamic behaviours, we also have dynamic item behaviours, which a
 
 Most of the time, we design our behaviour so that it will reach a point where the animated object eventually comes to a stop. You can find out when an item has reached a stop by setting a delegate `delegate: UIDynamicAnimatorDelegate` and then accessing `dynamicAnimatorDidPause(UIDynamicAnimator)`. For resumption, use `dynamicAnimatorWillResume(UIDynamicAnimator)`
 
-[Previous Note](..../Lecture%208%20-%20Animation/Part%202%20-%20UIView%20Transitions.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)
+[Previous Note](../Lecture%208%20-%20Animation/Part%202%20-%20UIView%20Transitions.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Lecture](../Lecture%209%20-%20View%20Controller%20Lifecycle%20and%20Scroll%20Views/Part%200%20-%20Intro.md)

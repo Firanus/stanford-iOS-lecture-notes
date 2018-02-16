@@ -40,4 +40,4 @@ There are programmatic methods to zoom, including setting the `zoomScale` proper
  
 ScrollView has a wide variety of delegate methods which you can use yo keep up to date with what's going on in the view. We won't go into great detail on them, but the documentation contains the necessary information.
 
-[Previous Note](../Lecture%209%20-%20View%20Controller%20Lifecycle%20and%20Scroll%20Views/Part%201%20-%20View%20Controller%20Lifecycle.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)
+[Previous Note](../Lecture%209%20-%20View%20Controller%20Lifecycle%20and%20Scroll%20Views/Part%201%20-%20View%20Controller%20Lifecycle.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Lecture](/Lecture%2010%20-%20Multithreading%20and%20Autolayout/Part%200%20-%20Intro.md)

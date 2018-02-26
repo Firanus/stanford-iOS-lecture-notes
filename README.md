@@ -43,3 +43,8 @@ This repository compiles notes made on the lectures given as a part of the freel
 10. [Lecture 10: Multithreading and Autolayout](/Lecture%2010%20-%20Multithreading%20and%20Autolayout/Part%200%20-%20Intro.md)
     1. [Multithreading](/Lecture%2010%20-%20Multithreading%20and%20Autolayout/Part%201%20-%20Multithreading.md)
     2. [Autolayout](/Lecture%2010%20-%20Multithreading%20and%20Autolayout/Part%202%20-%20Autolayout.md)
+11. [Lecture 11: Drag and Drop, UITableView and UICollectionView](/Lecture%2011%20-%20Drag%20and%20Drop%20UITableView%20and%20UICollectionView/Part%200%20-%20Intro.md)
+    1. [Drag and Drop](/Lecture%2011%20-%20Drag%20and%20Drop%20UITableView%20and%20UICollectionView/Part%201%20-%20Drag%20and%20Drop.md)
+    2. [UITableView and UICollectionView](/Lecture%2011%20-%20Drag%20and%20Drop%20UITableView%20and%20UICollectionView/Part%202%20-%20UITableView%20and%20UICollectionView.md)
+12. [Lecture 12: Drag and Drop, UITableView, UICollectionView and UITextField](/Lecture%2012%20-%20Drag%20and%20Drop%20UITableView%20UICollectionView%20and%20UITextField/Part%200%20-%20Intro.md)
+    1. [UITextField](/Lecture%2012%20-%20Drag%20and%20Drop%20UITableView%20UICollectionView%20and%20UITextField/Part%201%20-%20UITextField.md)

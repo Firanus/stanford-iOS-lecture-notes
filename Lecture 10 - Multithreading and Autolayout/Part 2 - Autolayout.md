@@ -56,4 +56,4 @@ let myHorizSizeClass: UIUserInterfaceSizeClass  = traitCollection.horizontalSize
 ```
 but it is rare to do this. We almost always do this using interface builder.
 
-[Previous Note](../Lecture%2010%20-%20Multithreading%20and%20Autolayout/Part%201%20-%20Multithreading.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)
+[Previous Note](../Lecture%2010%20-%20Multithreading%20and%20Autolayout/Part%201%20-%20Multithreading.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Lecture](/Lecture%2011%20-%20Drag%20and%20Drop%20UITableView%20and%20UICollectionView/Part%200%20-%20Intro.md)

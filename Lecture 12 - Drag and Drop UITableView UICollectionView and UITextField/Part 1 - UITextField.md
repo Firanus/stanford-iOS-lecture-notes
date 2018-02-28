@@ -20,4 +20,4 @@ Instead, if we want to control the appearance and behaviour of the keyboard, we 
 
 Finally, its important to remember that when a keyboard comes up, it *covers up* your views, rather than moving them up. There are various ways of dealing with this, but we will leave them for the moment until we're introduced to notifications next week.
 
-[Previous Note](../Lecture%2012%20-%20Drag%20and%20Drop%20UITableView%20UICollectionView%20and%20UITextField/Part%200%20-%20Intro.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)
+[Previous Note](../Lecture%2012%20-%20Drag%20and%20Drop%20UITableView%20UICollectionView%20and%20UITextField/Part%200%20-%20Intro.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Lecture](../Lecture%2013%20-%20Persistance/Part%200%20-%20Intro.md)

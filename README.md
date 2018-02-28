@@ -49,7 +49,7 @@ This repository compiles notes made on the lectures given as a part of the freel
 12. [Lecture 12: Drag and Drop, UITableView, UICollectionView and UITextField](/Lecture%2012%20-%20Drag%20and%20Drop%20UITableView%20UICollectionView%20and%20UITextField/Part%200%20-%20Intro.md)
     1. [UITextField](/Lecture%2012%20-%20Drag%20and%20Drop%20UITableView%20UICollectionView%20and%20UITextField/Part%201%20-%20UITextField.md)
 13. [Lecture 13: Persistance](/Lecture%2013%20-%20Persistance/Part%200%20-%20Intro.md)
-    1. [User Defaults](/Lecture%2013%20-%20Persistance/Part%201%20-%20User%20Defaults.md)
+    1. [User Defaults](/Lecture%2013%20-%20Persistance/Part%201%20-%20UserDefaults.md)
     2. [Archiving](/Lecture%2013%20-%20Persistance/Part%202%20-%20Archiving.md)
     3. [File System](/Lecture%2013%20-%20Persistance/Part%203%20-%20File%20System.md)
     4. [Core Data](/Lecture%2013%20-%20Persistance/Part%204%20-%20Core%20Data.md)

@@ -13,4 +13,4 @@ Methods of Persistance we cover:
 5. Cloud Kit (Briefly)
 6. UIDocuments
 
-[Previous Lecture](../Lecture%2012%20-%20Drag%20and%20Drop%20UITableView%20UICollectionView%20and%20UITextField/Part%201%20-%20UITextField.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) |  [Next Note](../Lecture%2013%20-%20Persistance/Part%201%20-%20User%20Defaults.md)
+[Previous Lecture](../Lecture%2012%20-%20Drag%20and%20Drop%20UITableView%20UICollectionView%20and%20UITextField/Part%201%20-%20UITextField.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) |  [Next Note](../Lecture%2013%20-%20Persistance/Part%201%20-%20UserDefaults.md)

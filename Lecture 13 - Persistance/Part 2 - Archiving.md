@@ -52,4 +52,4 @@ You can configure your decoder to handle the face that JSON is not strongly type
 
 In both of these cases, you can participate directly in the encoding and decoding processes by implementing `encode` and `decode` functions, but this is rare (only required if your type isn't composed of Codeable types), so we won't be focusing on it here.
 
-[Previous Note](../Lecture%2013%20-%20Persistance/Part%201%20-%20User%20Defaults.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) |  [Next Note](../Lecture%2013%20-%20Persistance/Part%203%20-%20File%20System.md)
+[Previous Note](../Lecture%2013%20-%20Persistance/Part%201%20-%20UserDefaults.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) |  [Next Note](../Lecture%2013%20-%20Persistance/Part%203%20-%20File%20System.md)

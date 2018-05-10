@@ -8,4 +8,4 @@ In this lecture, we'll be looking at 3 distinct topics.
 
 **The Application Lifecycle**. We've already looked at the View Controller lifecycle. This week, we'll also learn about the lifecycle of the application itself, and learn what all that code in `AppDelegate` is about.
 
-[Previous Lecture](../Lecture%2013%20-%20Persistance/Part%206%20-%20UIDocuments.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Note](../Lecture%2015%20-%20Alerts%20Notifications%20and%20the%20Application%20Lifecycle/Part%201%20-%20Alerts%20and%20Action%20Sheets.md)
+[Previous Lecture](../Lecture%2014%20-%20Persistence%20Demo/Part%201%20-%20UIDocumentBrowserViewController.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Note](../Lecture%2015%20-%20Alerts%20Notifications%20and%20the%20Application%20Lifecycle/Part%201%20-%20Alerts%20and%20Action%20Sheets.md)

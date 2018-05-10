@@ -155,4 +155,4 @@ var fileModificationDate: Date?
 var userActivity: NSUserActivity? // iCloud documents only
 ```
 
-[Previous Note](../Lecture%2013%20-%20Persistance/Part%205%20-%20Cloud%20Kit.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Lecture](../Lecture%2014%20-%20Persistance%20Demo/Part%200%20-%20Intro.md)
+[Previous Note](../Lecture%2013%20-%20Persistance/Part%205%20-%20Cloud%20Kit.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Lecture](../Lecture%2014%20-%20Persistence%20Demo/Part%200%20-%20Intro.md)

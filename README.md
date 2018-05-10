@@ -57,3 +57,6 @@ This repository compiles notes made on the lectures given as a part of the freel
     6. [UIDocuments](/Lecture%2013%20-%20Persistance/Part%206%20-%20UIDocuments.md)
 14. [Lecture 14: Persistence Demo](/Lecture%2014%20-%20Persistance%20Demo/Part%200%20-%20Intro.md)
     1. [UIDocumentBrowserViewController](/Lecture%2014%20-%20Persistance%20Demo/Part%201%20-%20UIDocumentBrowserViewController.md)
+15. [Lecture 15: Alerts, Notifications and the Application Lifecycle](/Lecture%2015%20-%20Alerts%20Notifications%20and%20the%20Application%20Lifecycle/Part%200%20-%20Intro.md)
+    1. [Alerts and Action Sheets](/Lecture%2015%20-%20Alerts%20Notifications%20and%20the%20Application%20Lifecycle/Part%201%20-%20Alerts%20and%20Action%20Sheets.md)
+    2. [Notifications and KVO](/Lecture%2015%20-%20Alerts%20Notifications%20and%20the%20Application%20Lifecycle/Part%202%20-%20Notifications%20and%20KVO.md)

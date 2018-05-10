@@ -77,4 +77,4 @@ if let newVC = storyboard.instantiateViewController(withIdentifier: “foo”) a
 }
 ```
 
-[Previous Note](../Lecture%2014%20-%20Persistance%20Demo/Part%200%20-%20Intro.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes)
+[Previous Note](../Lecture%2014%20-%20Persistance%20Demo/Part%200%20-%20Intro.md) | [Back To Contents](https://github.com/Firanus/stanford-iOS-lecture-notes) | [Next Lecture](../Lecture%2015%20-%20Alerts%20Notifications%20and%20the%20Application%20Lifecycle/Part%200%20-%20Intro.md)
